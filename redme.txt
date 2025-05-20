@@ -1,0 +1,10 @@
+when we want to send and mutate the data in the server = post method
+
+by default get method is provide by browser
+
+
+why express comes
+
+// http methods
+- by default browser using get method, when we hit the url
+- 
