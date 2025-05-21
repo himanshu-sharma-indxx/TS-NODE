@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/about", (req, res) => {
-  res.send("Hello World about to Express!");
+  res.send(`Hello World about to Express! ${req.query.papa}`);
 });
 
 app.listen(8000, () => {

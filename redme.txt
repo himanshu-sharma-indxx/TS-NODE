@@ -7,4 +7,7 @@ why express comes
 
 // http methods
 - by default browser using get method, when we hit the url
-- 
+- Post- to send the data to the server and entered in the database mutation(change , add)
+
+// why express
+    because it lowering the work that is handled by node, in node we are using the case base routing and using http methods and other modules to be importing, but in express we dont need to use them it provide us everything inside it
